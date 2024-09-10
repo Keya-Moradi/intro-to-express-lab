@@ -1,0 +1,16 @@
+{
+  "name": "intro-to-express-lab",
+  "version": "1.0.0",
+  "description": "Creating an Express routes that accept requests at a specific URL and respond with res.send",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.20.0"
+  }
+}
